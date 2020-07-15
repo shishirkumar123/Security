@@ -21,5 +21,6 @@ public class HashingDemo {
         hashText("A quick brown fox jumped oper the lazy dog"); //so how is it deterministic?
 
         //Ans : What you are printing is object identifier? Not sure
+        //changes
     }
 }
